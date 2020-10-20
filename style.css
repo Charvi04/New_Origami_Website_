@@ -1,0 +1,253 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://bgfons.com/uploads/lines/lines_texture1095.jpg);
+}
+
+
+a:link{
+    color: black;
+}
+a:visited{
+ color: black;
+ }
+
+.header{
+    font-family: 'Comic Sans MS' ;
+    font-size: x-large;
+    text-align: center;
+    background-color: bisque;
+    border: black;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px 5px #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+}
+.header:hover {
+    transition-duration: 0.7s;
+    transform:scale(1.02);
+}
+
+
+.link{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: right;
+    background-color: lavenderblush;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+   }
+   .link:hover{
+    transition-duration: 0.7s;
+    transform:scale(1.02);
+   }
+
+   .intro{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: left;
+    background-color:bisque;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+   }
+   a{
+    font-family: 'Comic Sans MS';
+    font-size: large;
+    text-align: left;
+   color: blue;
+  
+   }
+   .intro:hover{
+    transition-duration: 0.7s;
+    transform:scale(1.02);
+   }
+   .Origami{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: left;
+    background-color:peachpuff;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+    text-align: center;
+    
+   }
+   .Origami img{
+    opacity: 0.5;
+    background-color: peru;
+    border: dotted;
+    border-radius: 5px;
+
+   }
+   .Origami img:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.45);
+    box-shadow: 5px 5px 5px 5px #000000;
+   }
+   .Or{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: left;
+    background-color: powderblue;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 60px;
+    
+   }
+   .foot{
+    font-family: 'Comic Sans MS';
+    font-size: medium;
+    text-align: right;
+    background-color: powderblue;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 60px;
+   }
+   .Chameleon{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: left;
+    background-color:peachpuff;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+    text-align: center;
+    
+   }
+   .Chameleon img{
+    opacity: 0.5;
+    background-color: peru;
+    border: dotted;
+    border-radius: 5px;
+
+   }
+   .Chameleon img:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.45);
+    box-shadow: 5px 5px 5px 5px #000000;
+   }
+   .Pigeon{
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    text-align: left;
+    background-color:peachpuff;
+    box-shadow: 5px 5px 5px 5px #000000;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    padding-right: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+    text-align: center;
+    
+   }
+   .Pigeon img{
+    opacity: 0.5;
+    background-color: peru;
+    border: dotted;
+    border-radius: 5px;
+
+   }
+   .Pigeon img:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.45);
+    box-shadow: 5px 5px 5px 5px #000000;
+   }
+   .footer{
+        font-family: 'Comic Sans MS';
+        font-size: larger;
+        text-align: left;
+        background-color: lavenderblush;
+        box-shadow: 5px 5px 5px 5px #000000;
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 25px;
+        padding-right: 20px;
+        margin-left: 15px;
+        padding-left: 60px;
+        
+       }
+       .top{
+        font-family: 'Comic Sans MS' ;
+        font-size: x-large;
+        text-align: center;
+        background-color: bisque;
+        border: black;
+        border-radius:20px;
+        box-shadow: 5px 5px 5px 5px #000000;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 25px;
+       }
+       .im{
+        font-family: 'Comic Sans MS' ;
+        font-size: x-large;
+        text-align: center;
+        background-color: bisque;
+        border: black;
+        border-radius:20px;
+        box-shadow: 5px 5px 5px 5px #000000;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 25px;
+       }
+       .im img{
+           opacity: 0.5;
+       }
+       .im img:hover{
+           opacity: 1;
+        transition-duration: 0.7s;
+        transform:scale(1.45);
+        box-shadow: 5px 5px 5px 5px #000000;
+       }
+       .h1{
+        font-family: 'Comic Sans MS' ;
+        font-size: x-large;
+        text-align: center;
+        background-color: bisque;
+        border: black;
+        border-radius:20px;
+        box-shadow: 5px 5px 5px 5px #000000;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 25px;
+       }
+       .footer:hover{
+        transition-duration: 0.7s;
+        transform:scale(1.02);
+       }
